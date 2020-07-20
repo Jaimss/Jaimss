@@ -1,6 +1,7 @@
-### Hey, I'm James!
+# Hey, I'm James!
+I make stuff sometimes ¯\_(ツ)_/¯
 
-#### Jaims' Utils
+### [Jaims' Utils](https://github.com/Jaimss/Jaims-Utils)
 A minecraft utilities package that I made to make some stuff easier and a bit quicker to do.
 The main thing it does it make it so your don't need to copy and paste that utilities file every time you make a new plugin.
 
