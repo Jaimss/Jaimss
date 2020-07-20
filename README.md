@@ -1,5 +1,5 @@
 # Hey, I'm James!
-I make stuff sometimes ¯\_(ツ)_/¯
+I make stuff sometimes
 
 ### [Jaims' Utils](https://github.com/Jaimss/Jaims-Utils)
 A minecraft utilities package that I made to make some stuff easier and a bit quicker to do.
