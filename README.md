@@ -7,5 +7,5 @@ The main thing it does it make it so your don't need to copy and paste that util
 
 ##### Other Stuff
 - [website](https://jaims.dev) - my website
-- [![Discord](https://img.shields.io/discord/728826761411952703?label=discord&logo=discord)](https://discord.jaims.dev) - my discord
+- [discord](https://discord.jaims.dev) - my discord
 - [paste](https://paste.jaims.dev) - my pastebin 
