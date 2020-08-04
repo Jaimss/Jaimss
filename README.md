@@ -15,3 +15,5 @@ Gives useful features like permission/role checking easily, sending and cleaning
 - [website](https://jaims.dev) - my website
 - [discord](https://discord.jaims.dev) - my discord
 - [paste](https://paste.jaims.dev) - my pastebin 
+---
+[![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss)](https://github.com/jaimss/)
