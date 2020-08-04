@@ -1,7 +1,7 @@
 # Hey, I'm James!
 I make stuff sometimes
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=mcutils)](https://github.com/jaimss/mcutils)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=jdautils)](https://github.com/jaimss/jdautils)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=mcutils)](https://github.com/jaimss/mcutils)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=jdautils)](https://github.com/jaimss/jdautils)
 
 
 ##### Other Stuff
