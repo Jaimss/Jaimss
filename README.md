@@ -1,19 +1,12 @@
 # Hey, I'm James!
 I make stuff sometimes
 
-### [mcutils](https://github.com/Jaimss/Jaims-Utils)
-A minecraft utilities package that I made to make some stuff easier and a bit quicker to do.
-The main thing it does it make it so your don't need to copy and paste that utilities file every time you make a new plugin.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=mcutils)](https://github.com/jaimss/mcutils)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=jdautils)](https://github.com/jaimss/jdautils)
 
-Related: [Spigot](https://hub.spigotmc.org/javadocs/spigot/) & [BungeeCord](https://ci.md-5.net/job/BungeeCord/ws/api/target/apidocs/overview-summary.html)
-### [jdautils](https://github.com/Jaimss/jdautils)
-A [JDA](https://github.com/DV8FromTheWorld/JDA) utilities package made for Kotlin development.
-
-Gives useful features like permission/role checking easily, sending and cleaning up messages, etc.
 
 ##### Other Stuff
 - [website](https://jaims.dev) - my website
 - [discord](https://discord.jaims.dev) - my discord
 - [paste](https://paste.jaims.dev) - my pastebin 
 ---
-[![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss)](https://github.com/jaimss/)
+[![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&theme=algolia&count_private=true)](https://github.com/jaimss/)
