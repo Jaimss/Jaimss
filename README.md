@@ -5,11 +5,11 @@ I make stuff sometimes
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=mcutils)](https://github.com/jaimss/mcutils)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=jdautils)](https://github.com/jaimss/jdautils)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=mcutils&theme=algolia)](https://github.com/jaimss/mcutils)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=jdautils&theme=algolia)](https://github.com/jaimss/jdautils)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimss&count_private=true)](https://jaims.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimss&layout=compact)](https://jaims.dev)
 
 ---
 
