@@ -9,10 +9,6 @@ I make stuff sometimes
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimss&layout=compact)](https://jaims.dev)
-
----
-
 ##### Other Stuff
 - [website](https://jaims.dev) - my website
 - [discord](https://discord.jaims.dev) - my discord
