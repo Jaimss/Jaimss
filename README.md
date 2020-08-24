@@ -5,10 +5,6 @@ I make stuff sometimes
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=mcutils&theme=algolia)](https://github.com/jaimss/mcutils)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaimss&repo=jdautils&theme=algolia)](https://github.com/jaimss/jdautils)
-
----
-
 ##### Other Stuff
 - [website](https://jaims.dev) - my website
 - [discord](https://discord.jaims.dev) - my discord
