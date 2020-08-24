@@ -1,5 +1,5 @@
 # Hey, I'm James!
-I work with java/kotlin to make minecraft plugins / discord bots. I also can use html/css/some js to make decent websites. See my website below lol.
+I work with java/kotlin to make minecraft plugins / discord bots. I also can use html/css/some js to make decent websites. See my website below.
 
 [![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&theme=algolia&count_private=true)](https://jaims.dev)
 
