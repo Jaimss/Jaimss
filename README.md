@@ -1,5 +1,5 @@
 # Hey, I'm James!
-I work with java/kotlin to make minecraft plugins / discord bots. I also can use html/css/some js to make decent websites. See my website below.
+I am a self taught java/kotlin programmer who works with the spigot api as well as the java-discord api. I also know a small amount of python and have made bots with the discord.py api. Finally, I know enough html/css/js to make some basic websites, but nothing too crazy.
 
 [![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&theme=algolia&count_private=true)](https://jaims.dev)
 
