@@ -3,7 +3,7 @@ I am a self taught java/kotlin programmer who works with the spigot api as well 
 
 [![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&count_private=true)](https://jaims.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimss)](https://jaims.dev)
 
 ---
 
