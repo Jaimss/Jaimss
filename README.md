@@ -3,8 +3,6 @@ I am a self taugh Java/Kotlin developer with about a year of experience. I am al
 
 [![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&count_private=true)](https://jaims.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimss)](https://jaims.dev)
-
 ---
 
 ##### Other Stuff
