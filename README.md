@@ -1,8 +1,9 @@
-# Hey, I'm James!
-I am a self taugh Java/Kotlin developer with about a year of experience. I am also trying to teach myself python, and some web development. 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimss" alt="jaimss" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaimss" alt="jaimss" /> </p>
 
-Busy with school :/
+# Hey, I'm James!
+I am a student developer always trying to learn more! I know a good amount of Java/Kotlin and have been learning some Python as well as webdev languages in my free time and at school.
+
+- I am currently working on [JCore](https://github.com/Jaimss/jcore)
 
 [![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&count_private=true&theme=dark)](https://jaims.dev)
 
