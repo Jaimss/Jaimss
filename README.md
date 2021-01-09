@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaimss" alt="jaimss" /> </p>
-
 # Hey, I'm James!
 I am a student developer always trying to learn more! I know a good amount of Java/Kotlin and have been learning some Python as well as webdev languages in my free time and at school.
 
