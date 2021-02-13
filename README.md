@@ -3,7 +3,7 @@ I am a student developer always trying to learn more! I know a good amount of Ja
 
 - I am currently working on [ModuCore](https://github.com/Jaimss/moducore)
 
-[![Jaims's github stats](https://github-readme-stats.vercel.app/api?username=jaimss&show_icons=true&count_private=true&theme=dark)](https://jaims.dev)
+![Metrics](https://metrics.lecoq.io/Jaimss?template=classic&activity=1&followup=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&languages.skipped=dotfiles&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York&config.animated=true)
 
 ---
 
